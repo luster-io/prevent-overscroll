@@ -1,0 +1,24 @@
+{
+  "name": "prevent-overscroll",
+  "version": "1.0.0",
+  "description": "Includable JavaScript to prevent overscroll on mobile devices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luster-io/prevent-overscroll.git"
+  },
+  "keywords": [
+    "browserify",
+    "mobile",
+    "scrolling"
+  ],
+  "author": "Luster.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luster-io/prevent-overscroll/issues"
+  },
+  "homepage": "https://github.com/luster-io/prevent-overscroll"
+}
