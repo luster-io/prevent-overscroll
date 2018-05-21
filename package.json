@@ -1,6 +1,6 @@
 {
   "name": "prevent-overscroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Includable JavaScript to prevent overscroll on mobile devices.",
   "main": "index.js",
   "scripts": {
